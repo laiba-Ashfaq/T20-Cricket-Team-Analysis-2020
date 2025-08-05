@@ -62,7 +62,7 @@ To evaluate player statistics from the 2020 T20 series and visualize:
 
 ---
 
-### 🔖 Short GitHub Repository Description
+### 🔖 Description
 > An interactive Power BI dashboard analyzing player performance in the 2020 T20 cricket series to build the best final team.
 
 
